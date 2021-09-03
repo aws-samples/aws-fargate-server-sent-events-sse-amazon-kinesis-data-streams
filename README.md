@@ -52,6 +52,7 @@ When dealing with real-time data it is often required to send that data over the
 ## Resource Cleanup
 ### CloudFormation
 1. From the <b>cdk</b> folder run <b>cdk destroy</b>
+2. If <b>cdk destroy</b> reports an error about capacity providers in use, please try the destroy command again
 
 ## Security
 
